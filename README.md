@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **NextJS**
 
-- 💬 Ask me about: **Front-end Development**
+- 💬 Ask me about: **Front-End Development**
 
 - 📫 How to reach me: **diecale.1987@gmail.com**
 
