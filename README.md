@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hey! How are you doing?</h2>
 <h3 align="center">My name is Diego, and I am passionate about the world of development and technology. I like to think that writing code is like writing a book: all about style and refinement. I'm also an English teacher here in Brazil.</h3>
 
-- 🌱 I’m currently learning: **NextJS**
+- 🌱 I’m currently learning: **NextJS AND JAVA**
 
 - 💬 Ask me about: **Front-End Development**
 
