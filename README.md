@@ -57,7 +57,6 @@ I think I'm very funny. The world might disagree — but I refuse to check.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Diecale&show_icons=true&theme=dracula" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diecale&theme=dracula" width="48%"/>
 </p>
 
 ---
