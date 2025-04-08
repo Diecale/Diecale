@@ -2,7 +2,7 @@
 <p align="center">
   Passionate developer & curious tech enthusiast <br/>
   <i>"Writing code is like writing a book — it's all about style and refinement."</i><br/>
-  Also an English teacher 🇧🇷
+  Also an English teacher here in Brazil
 </p>
 
 ---
