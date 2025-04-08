@@ -53,13 +53,11 @@ I think I'm very funny. The world might disagree — but I refuse to check.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diecale&show_icons=true&theme=dracula" width="48%"/>
-</p>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diecale/Diecale/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diecale/Diecale/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Diecale/Diecale/output/github-snake.svg" />
+</picture>
 
 ### 🌀 GitHub Activity
 
