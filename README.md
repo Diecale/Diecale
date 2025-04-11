@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Diecale/Diecale/main/logo.png" alt="Hi, I'm Diego - Software Developer" />
+</p>
+
+
 <h1 align="center">Hey there, I'm Diego <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 <p align="center">
   Passionate developer & curious tech enthusiast <br/>
@@ -34,9 +39,9 @@
 
 ### 💬 Ask Me About
 
-- Front-End Development
+- FullStack Development
 - Clean UI & Interactive Web Apps
-- React, Node.js, and Testing
+- React, Node.js, and QA 
 
 ---
 
